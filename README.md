@@ -1,39 +1,42 @@
-# Uber-Trip-Analysis-PowerBI-Dashboard
-🚕 Uber Trip Analysis Dashboard with Power BI
+🚕 # Uber-Trip-Analysis-Dashboard-with-Power-BI
+
 📌 Overview
+
 This project analyzes Uber trip data using Power BI to uncover insights about booking trends, revenue generation, trip efficiency, and location-based patterns. The dashboard is designed to help stakeholders make informed, data-driven decisions for operational improvements and customer satisfaction.
 
 📊 Key Features
-Total Bookings and Revenue Analysis
-Visualize the total number of trips and the total booking value over selected time ranges.
+• Total Bookings and Revenue Analysis
+- Visualize the total number of trips and the total booking value over selected time ranges.
 
-Trip Efficiency Metrics
-Analyze average trip distance, time, and revenue per booking.
+• Trip Efficiency Metrics
 
-Interactive Measure Selector
-Use a disconnected table to switch between KPIs like Total Bookings, Total Trip Distance, and Booking Value in charts dynamically.
+- Analyze average trip distance, time, and revenue per booking.
 
-Location Insights
+• Interactive Measure Selector
 
-Most Frequent Pickup and Drop-off Points
+- Use a disconnected table to switch between KPIs like Total Bookings, Total Trip Distance, and Booking Value in charts dynamically.
 
-Top 5 Booking Locations
+• Location Insights
 
-Vehicle Preferences by Location
+- Most Frequent Pickup and Drop-off Points
 
-Vehicle Type Analysis
-Matrix view of KPIs (bookings, revenue, distance) across different vehicle types with conditional formatting.
+• Top 5 Booking Locations
 
-Time-Based Trends
-Analyze bookings by day to detect peak/off-peak patterns and improve planning.
+- Vehicle Preferences by Location
 
-UX Enhancements
+• Vehicle Type Analysis
+- Matrix view of KPIs (bookings, revenue, distance) across different vehicle types with conditional formatting.
 
-Dynamic Chart Titles
+• Time-Based Trends
+- Analyze bookings by day to detect peak/off-peak patterns and improve planning.
 
-Clear Slicer Button for quick filter resets
+• UX Enhancements
 
-Rich tooltips with contextual metrics
+- Dynamic Chart Titles
+
+- Clear Slicer Button for quick filter resets
+
+- Rich tooltips with contextual metrics
 
 ✅ KPIs Tracked
 Total Bookings
@@ -49,20 +52,20 @@ Average Trip Distance
 Average Trip Time
 
 📍 Use Cases
-Demand Forecasting
-Identify high-demand locations and time periods to optimize driver deployment.
+• Demand Forecasting
+- Identify high-demand locations and time periods to optimize driver deployment.
 
-Operational Efficiency
-Evaluate trip efficiency and rider preferences to improve service quality.
+• Operational Efficiency
+- Evaluate trip efficiency and rider preferences to improve service quality.
 
-Strategic Decision-Making
-Support pricing models, fleet distribution, and user experience enhancements.
+• Strategic Decision-Making
+- Support pricing models, fleet distribution, and user experience enhancements.
 
 🛠 Tools Used
-Power BI (DAX, Power Query)
+• Power BI (DAX, Power Query)
 
-Excel / CSV data source
+• Excel data source
 
-Data Modeling (relationships, inactive relationships)
+• Data Modeling (relationships, inactive relationships)
 
-UX Design (tooltips, slicers, dynamic visuals)
+• UX Design (tooltips, slicers, dynamic visuals)
