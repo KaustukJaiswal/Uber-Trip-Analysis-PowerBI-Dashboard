@@ -4,43 +4,46 @@
 
 This project analyzes Uber trip data using Power BI to uncover insights about booking trends, revenue generation, trip efficiency, and location-based patterns. The dashboard is designed to help stakeholders make informed, data-driven decisions for operational improvements and customer satisfaction.
 
+
 📊 Key Features
 
 • Total Bookings and Revenue Analysis
 
- Visualize the total number of trips and the total booking value over selected time ranges.
+   Visualize the total number of trips and the total booking value over selected time ranges.
 
 • Trip Efficiency Metrics
 
- Analyze average trip distance, time, and revenue per booking.
+    Analyze average trip distance, time, and revenue per booking.
 
 • Interactive Measure Selector
 
- Use a disconnected table to switch between KPIs like Total Bookings, Total Trip Distance, and Booking Value in charts dynamically.
+    Use a disconnected table to switch between KPIs like Total Bookings, Total Trip Distance, and Booking Value in charts dynamically.
 
 • Location Insights
 
- Most Frequent Pickup and Drop-off Points
+    Most Frequent Pickup and Drop-off Points
 
 • Top 5 Booking Locations
 
-Vehicle Preferences by Location
+   Vehicle Preferences by Location
 
 • Vehicle Type Analysis
 
-Matrix view of KPIs (bookings, revenue, distance) across different vehicle types with conditional formatting.
+   Matrix view of KPIs (bookings, revenue, distance) across different vehicle types with conditional formatting.
 
 • Time-Based Trends
 
-Analyze bookings by day to detect peak/off-peak patterns and improve planning.
+   Analyze bookings by day to detect peak/off-peak patterns and improve planning.
 
 • UX Enhancements
 
-Dynamic Chart Titles
+   Dynamic Chart Titles
 
-Clear Slicer Button for quick filter resets
+   Clear Slicer Button for quick filter resets
 
-Rich tooltips with contextual metrics
+   Rich tooltips with contextual metrics
+
+   
 
 ✅ KPIs Tracked
 
@@ -56,6 +59,8 @@ Average Trip Distance
 
 Average Trip Time
 
+
+
 📍 Use Cases
 
 • Demand Forecasting
@@ -69,6 +74,8 @@ Evaluate trip efficiency and rider preferences to improve service quality.
 • Strategic Decision-Making
 
 Support pricing models, fleet distribution, and user experience enhancements.
+
+
 
 🛠 Tools Used
 
